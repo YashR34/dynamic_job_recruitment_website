@@ -104,3 +104,4 @@ This is a dynamic job recruitment website built using HTML, CSS, JavaScript, PHP
 
 
 For any questions or feedback, please contact [YashR34](https://github.com/YashR34).
+![Screenshot (6)](https://github.com/user-attachments/assets/1b958ac1-213b-4c93-ba45-54ebadcdc4fe)
