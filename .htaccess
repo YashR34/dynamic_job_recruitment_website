@@ -1,0 +1,10 @@
+RewriteEngine on
+
+# Exclude specific PHP files from rewrite rules
+
+
+
+# Rewrite rule to remove .php extension
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME}.php -f
+RewriteRule ^(.*)$ $1.php [L]
